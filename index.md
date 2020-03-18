@@ -22,7 +22,7 @@ Country-Specific datasets:
 [Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset)
 , [Italy](https://www.kaggle.com/sudalairajkumar/covid19-in-italy), [Brazil](https://www.kaggle.com/unanimad/corona-virus-brazil), [U.S.](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)  
 
-
+[State by state U.S.:](https://covidtracking.com/) Contains an API as well as historical time series data
 
 
 # Suggested Projects
