@@ -24,14 +24,18 @@ Country-Specific datasets:
 
 
 
-  
+
 # Suggested Projects
 
 ### Epidemiology modeling
 State by state or regional in focus instead of just national. Maybe even try to predict patient flows to specific hospitals, which is maybe the single most important output for planners
 
 ### Fiscal response
-Track if/how stimulus is or isn’t arriving at households e.g. changes in SNAP policy, sick leave, paid parental leave, etc. Track the allocation of dollars using supply side gov’t data. Track the receipt of dollars using household data/social media?. Every policy idea is theoretical until it actually shows up in the surveys. This is essential for accountability and identifying bottlenecks / exclusion / etc.
+Track if/how stimulus is or isn’t arriving at households e.g. changes in SNAP policy, sick leave, paid parental leave, etc.
+Track the allocation of dollars using supply side gov’t data.
+Track the receipt of dollars using household data and potentially social media.
+
+Every policy idea is theoretical until it actually shows up in the surveys. This is essential for accountability and identifying bottlenecks / exclusion / etc.
 
 ### Changes to learning environments and identifying the most at risk students
 Where are the most vulnerable students (free reduced lunch, foster, etc.) among schools that have been shut?
