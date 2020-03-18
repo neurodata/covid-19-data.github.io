@@ -20,15 +20,11 @@ There is an immediate need for resource allocation towards the Covid-19 pandemic
 Country-Specific datasets:
 
 [Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset)
-
-[Italy](https://www.kaggle.com/sudalairajkumar/covid19-in-italy)
-
-[Brazil](https://www.kaggle.com/unanimad/corona-virus-brazil)
-
-[U.S.](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)  
+, [Italy](https://www.kaggle.com/sudalairajkumar/covid19-in-italy), [Brazil](https://www.kaggle.com/unanimad/corona-virus-brazil), [U.S.](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)  
 
 
 
+  
 # Suggested Projects
 
 ### Epidemiology modeling
