@@ -8,11 +8,13 @@ There is an immediate need for resource allocation towards the Covid-19 pandemic
 
 Use your skills to analyze data, develop models, and organize results so that policymakers are better informed to make the correct decisions. Another important task is maintenance of existing datasets to keep them clean and accurate. As of March 18th 5:30 PM, [the number one most used dataset](https://github.com/CSSEGISandData/COVID-19/issues) has 466 issues that need to be addressed.
 
+&nbsp;
 
 # Analyses and Data Products:
 
 [A dashboard with active case modeling, prediction, and visualization by country](https://covid19-dash.github.io/)
 
+&nbsp;
 
 # Datasets:
 
@@ -31,6 +33,8 @@ Country-Specific datasets: [Korea](https://www.kaggle.com/kimjihoo/coronavirusda
 [covidtracking.com U.S. state by state tracking:](https://covidtracking.com/) Contains an API as well as historical time series data
 
 [Understanding America Study:](https://uasdata.usc.edu/index.php) Surveys of attitudes and behaviors around the Novel Coronavirus pandemic in the United States
+
+&nbsp;
 
 # Suggested Projects
 
