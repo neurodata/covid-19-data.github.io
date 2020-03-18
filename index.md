@@ -4,6 +4,15 @@
 
 There is an immediate need for resource allocation towards the Covid-19 pandemic. While there has been a wealth of data and scientists working to analyze, diagnose, and predict the spread of the outbreak, there has yet to be a centralized repository for harmonized datasets, immediate analysis needs, and previously completed research outputs. Here we are creating exactly this repository, for a decentralized and open source data science collaboration to combat the COVID-19 pandemic.
 
+# Get Involved
+
+Use your skills to analyze data, develop models, and organize results so that policymakers are better informed to make the correct decisions. Another important task is maintenance of existing datasets to keep them clean and accurate. As of March 18th 5:30 PM, [the number one most used dataset](https://github.com/CSSEGISandData/COVID-19/issues) has 466 issues that need to be addressed.
+
+
+# Analyses and Data Products:
+
+[A dashboard with active case modeling, prediction, and visualization by country](https://covid19-dash.github.io/)
+
 
 # Datasets:
 
