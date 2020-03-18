@@ -1,3 +1,6 @@
+There is an immediate need for resource allocation towards the Covid-19 pandemic. While there has been a wealth of data and scientists working to analyze, diagnose, and predict the spread of the outbreak, there has yet to be a centralized repository for harmonized datasets, immediate analysis needs, and previously completed research outputs. Here we are creating exactly this repository, for a decentralized and open source data science collaboration to combat the COVID-19 pandemic.
+
+
 # Datasets:
 
 [JHU CSSE:](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) Daily case reports with time-series data 
@@ -21,6 +24,7 @@ Country-Specific datasets:
 [U.S.](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)
 
 
+
 # Suggested Projects
 
 ### Epidemiology modeling
@@ -37,3 +41,6 @@ Web crawl and social media scrape to have real time dashboard of food/medicine s
 
 ### Predicting and monitoring false information
 Predict types of people that don’t believe efficacy of social distancing, etc. in order to target public health messaging better. Monitor false information on social media.
+
+### [A fast and anonymous sharing platform for ER doctors](https://twitter.com/balajis/status/1239748953597341697)
+ER docs need an anonymous and fast way to share information and findings. Traditional publishing pathways are too slow and twitter is too disorganized and not anonymized
