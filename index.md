@@ -17,12 +17,9 @@ There is an immediate need for resource allocation towards the Covid-19 pandemic
 
 [School Closures dataset:](https://www.edweek.org/ew/section/multimedia/map-coronavirus-and-school-closures.html) Contains a map and table of all U.S. school closures 
 
-Country-Specific datasets:
+Country-Specific datasets: [Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset), [Italy](https://www.kaggle.com/sudalairajkumar/covid19-in-italy), [Brazil](https://www.kaggle.com/unanimad/corona-virus-brazil), [U.S.](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)  
 
-[Korea](https://www.kaggle.com/kimjihoo/coronavirusdataset)
-, [Italy](https://www.kaggle.com/sudalairajkumar/covid19-in-italy), [Brazil](https://www.kaggle.com/unanimad/corona-virus-brazil), [U.S.](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)  
-
-[State by state U.S.:](https://covidtracking.com/) Contains an API as well as historical time series data
+[covidtracking.com U.S. state by state tracking:](https://covidtracking.com/) Contains an API as well as historical time series data
 
 
 # Suggested Projects
