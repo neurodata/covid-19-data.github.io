@@ -1,3 +1,7 @@
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 There is an immediate need for resource allocation towards the Covid-19 pandemic. While there has been a wealth of data and scientists working to analyze, diagnose, and predict the spread of the outbreak, there has yet to be a centralized repository for harmonized datasets, immediate analysis needs, and previously completed research outputs. Here we are creating exactly this repository, for a decentralized and open source data science collaboration to combat the COVID-19 pandemic.
 
 
