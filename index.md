@@ -21,6 +21,7 @@ Country-Specific datasets: [Korea](https://www.kaggle.com/kimjihoo/coronavirusda
 
 [covidtracking.com U.S. state by state tracking:](https://covidtracking.com/) Contains an API as well as historical time series data
 
+[Understanding America Study:](https://uasdata.usc.edu/index.php) Surveys of attitudes and behaviors around the Novel Coronavirus pandemic in the United States
 
 # Suggested Projects
 
