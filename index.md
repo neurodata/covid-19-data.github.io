@@ -21,7 +21,7 @@ Country-Specific datasets:
 
 [Brazil](https://www.kaggle.com/unanimad/corona-virus-brazil)
 
-[U.S.](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)
+[U.S.](https://www.kaggle.com/sudalairajkumar/covid19-in-usa)  
 
 
 
