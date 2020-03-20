@@ -6,7 +6,7 @@ There is an immediate need for resource allocation towards the Covid-19 pandemic
 
 # Get Involved
 
-Use your skills to analyze data, develop models, and organize results so that policymakers are better informed to make the correct decisions. Another important task is maintenance of existing datasets to keep them clean and accurate. As of March 18th 5:30 PM, [the number one most used dataset](https://github.com/CSSEGISandData/COVID-19/issues) has 466 issues that need to be addressed.
+Use your skills to analyze data, develop models, and organize results so that policymakers are better informed to make the correct decisions. Another important task is maintenance of existing datasets to keep them clean and accurate. As of March 18th 5:30 PM, [the number one most used dataset](https://github.com/CSSEGISandData/COVID-19/issues) has 466 issues that need to be addressed. Researchers also are in need of help. Find ways to support [here](http://crowdfightcovid19.org/).
 
 &nbsp;
 
