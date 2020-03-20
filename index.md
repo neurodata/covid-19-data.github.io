@@ -34,6 +34,8 @@ Country-Specific datasets: [Korea](https://www.kaggle.com/kimjihoo/coronavirusda
 
 [Understanding America Study:](https://uasdata.usc.edu/index.php) Surveys of attitudes and behaviors around the Novel Coronavirus pandemic in the United States
 
+[County by county data](http://mimisun.com/covid19)
+
 &nbsp;
 
 # Suggested Projects
