@@ -36,6 +36,9 @@ Country-Specific datasets: [Korea](https://www.kaggle.com/kimjihoo/coronavirusda
 
 [County by county data](http://mimisun.com/covid19)
 
+[Chest X-Ray Dataset](https://github.com/ieee8023/covid-chestxray-dataset): Contains an image data collection from chest X-Ray and CT images
+
+
 &nbsp;
 
 # Suggested Projects
