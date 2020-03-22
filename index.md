@@ -14,6 +14,8 @@ Use your skills to analyze data, develop models, and organize results so that po
 
 [A dashboard with active case modeling, prediction, and visualization by country](https://covid19-dash.github.io/)
 
+[A crowdsourced map of hospitals needing PPE](https://www.getppe.me/)
+
 &nbsp;
 
 # Datasets:
